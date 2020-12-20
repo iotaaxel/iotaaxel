@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - I'm currently learning Go.
+- I will learn Scala and Ocaml also.
 - I hope to learn Docker/Kubernetes and Quantum Computing soon.
 - Feel free to contact me if you know of any open source projects you might want my help with!
 
