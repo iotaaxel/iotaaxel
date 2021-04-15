@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- I plan to learn Quantum Computing soon.
+### Welcome 👋
 
 <!--
 **sarahibanga/sarahibanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
