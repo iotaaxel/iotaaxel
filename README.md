@@ -1,5 +1,7 @@
 ### Welcome 👋
 
+Keep up with me on [Linktree](https://linktr.ee/axeliota). 
+
 ![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iotaaxel&count_private=true&show_icons=true&theme=outrun)
 
 
