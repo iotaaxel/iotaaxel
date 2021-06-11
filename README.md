@@ -1,5 +1,8 @@
 ### Welcome 👋
 
+![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iotaaxel&count_private=true&show_icons=true&theme=outrun)
+
+
 <!--
 **sarahibanga/sarahibanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
