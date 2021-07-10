@@ -2,8 +2,6 @@
 
 Keep up with me with my Linktree [links](https://linktr.ee/axeliota). 
 
-Here is my regular Github. [QuantFusion Technologies LLC](https://github.com/QuantFusion-Technologies-LLC) is my organization's Github.
-
 ![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iotaaxel&count_private=true&show_icons=true&theme=outrun)
 
 
