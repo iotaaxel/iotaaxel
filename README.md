@@ -4,7 +4,7 @@
 
 Keep up with me with my Linktree [links](https://linktr.ee/axeliota). 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iotaaxel&count_private=true&show_icons=true&theme=outrun)
+![Stats](https://github-readme-stats.vercel.app/api?username=iotaaxel&count_private=true&show_icons=true&theme=outrun)
 
 
 <!--
