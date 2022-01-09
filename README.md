@@ -1,5 +1,4 @@
-### Welcome 👋
-<span style="color: #f2cf4a; font-family: fontspace.com/aquire-font-f43735; font-size: 2em;">INSPIRATION DAY</span>
+Hi, i'm Axel Iota! :wave:
 
 <!--
 **iotaaxel/iotaaxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
