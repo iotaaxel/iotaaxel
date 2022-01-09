@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'AquireLight';
-  src: url('AquireLight.eot');
-  src: url('AquireLight.eot?#iefix') format('embedded-opentype'),
-       url('AquireLight.svg#AquireLight') format('svg'),
-       url('AquireLight.ttf') format('truetype'),
-       url('AquireLight.woff') format('woff'),
-       url('AquireLight.woff2') format('woff2');
+  src: url('/fonts/AquireLight.eot');
+  src: url('/fonts/AquireLight.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/AquireLight.svg#AquireLight') format('svg'),
+       url('/fonts/AquireLight.ttf') format('truetype'),
+       url('/fonts/AquireLight.woff') format('woff'),
+       url('/fonts/AquireLight.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
