@@ -1,0 +1,5 @@
+license: Freeware, Non-Commercial
+link: https://www.fontspace.com/aquire-font-f43735
+
+
+Followed method in https://write.corbpie.com/using-custom-ttf-or-otf-fonts-in-css-and-html/ using files from the above font space link.

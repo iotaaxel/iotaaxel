@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'AquireLight';
+  src: url('AquireLight.eot');
+  src: url('AquireLight.eot?#iefix') format('embedded-opentype'),
+       url('AquireLight.svg#AquireLight') format('svg'),
+       url('AquireLight.ttf') format('truetype'),
+       url('AquireLight.woff') format('woff'),
+       url('AquireLight.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+color: white;
+}
+
+h1 {
+font-size: 21px;
+font-family: AquireLight;
+}
