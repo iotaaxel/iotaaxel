@@ -1,6 +1,15 @@
 <!-- Cool font image from https://www.fontspace.com/aquire-font-f43735 -->
 <img src="https://user-images.githubusercontent.com/25125141/148691581-32f8ae8c-8058-4949-a5fb-498ead53f086.png" width=200>
 
+🔭 I am self-employed and divide my work time between open-source and personal projects. 
+
+**Current Focus:** 
+<ul>
+    <li> Algorithmic Trading </li>
+    <li> Blockchain Development</li>
+    <li> Smart Contract Auditing</li>
+</ul>
+
 <!--
 **iotaaxel/iotaaxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
