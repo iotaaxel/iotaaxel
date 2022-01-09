@@ -1,12 +1,14 @@
 ### Welcome 👋
+<span style="color: #f2cf4a; font-family: fontspace.com/aquire-font-f43735; font-size: 2em;">INSPIRATION DAY</span>
+
 
 Keep up with me with my Linktree [links](https://linktr.ee/axeliota). 
 
-![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iotaaxel&count_private=true&show_icons=true&theme=outrun)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iotaaxel&count_private=true&show_icons=true&theme=outrun)
 
 
 <!--
-**sarahibanga/sarahibanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iotaaxel/iotaaxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
