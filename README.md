@@ -1,8 +1,5 @@
-Hi, i'm Axel Iota! :wave:
-
-![image](https://user-images.githubusercontent.com/25125141/148691257-ac126578-78e2-4be6-93dc-4016869cfa8c.png) 
-![image](https://user-images.githubusercontent.com/25125141/148691274-e2759780-b5b2-4e05-8f81-bccd6f755296.png)
-
+<!-- Cool font image from https://www.fontspace.com/aquire-font-f43735 -->
+<img src="https://user-images.githubusercontent.com/25125141/148691581-32f8ae8c-8058-4949-a5fb-498ead53f086.png" width=200>
 
 <!--
 **iotaaxel/iotaaxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
