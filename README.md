@@ -6,8 +6,7 @@
 **Current Focus:** 
 <ul>
     <li> Algorithmic Trading </li>
-    <li> Blockchain Development</li>
-    <li> Smart Contract Auditing</li>
+    <li> Machine Learning </li>
 </ul>
 
 <!--
