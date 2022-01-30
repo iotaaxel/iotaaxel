@@ -12,7 +12,8 @@
 </ul>
 
 Some hobbies: 🏐 🏃 💃
-    - Learning: 🛹 🛼 ⛸️
+   
+   - Learning: 🛹 🛼 ⛸️
 
 **TL;DR: Fintech Dev + Copywriting**
 
