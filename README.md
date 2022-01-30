@@ -7,6 +7,7 @@
 <ul>
     <li> Algorithmic Trading </li>
     <li> Machine Learning </li>
+    <li> Copywriting </li>
 </ul>
 
 <!--
