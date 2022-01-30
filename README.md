@@ -7,8 +7,14 @@
 <ul>
     <li> Algorithmic Trading </li>
     <li> Machine Learning </li>
+    <li> Smart Contract Auditing </li>
     <li> Copywriting </li>
 </ul>
+
+Some hobbies: 🏐 🏃 💃
+    - Learning: 🛹 🛼 ⛸️
+
+**TL;DR: Fintech Dev + Copywriting**
 
 <!--
 **iotaaxel/iotaaxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
