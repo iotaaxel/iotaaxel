@@ -1,30 +1,43 @@
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
 <!-- Cool font image from https://www.fontspace.com/aquire-font-f43735 -->
-<img src="https://user-images.githubusercontent.com/25125141/148691581-32f8ae8c-8058-4949-a5fb-498ead53f086.png" width=200>
-
-### About Me:
-
-I am self-employed and divide my work time between open-source and experimental projects.
-
-### Current Focus:
-<ul>
-    <li> Algorithmic Trading </li>
-    <li> Machine Learning </li>
-    <li> Smart Contract Auditing </li>
-    <li> Copywriting </li>
-</ul>
-
-### Connect with Me:
-<p align="left" dir="auto">
-<a href="https://twitch.tv/axel_iota" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="axel_iota" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://twitter.com/iota_axel" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iota_axel" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/channel/UCCR46iLohaOQF7_PsKFCHag" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AxelIota" height="30" width="40" style="max-width: 100%;"></a>
-</p>
-
-### Thank You:
+<p align="left" dir="auto"><a href="" rel="nofollow"><img width="60%" src="https://user-images.githubusercontent.com/25125141/148691581-32f8ae8c-8058-4949-a5fb-498ead53f086.png">
+</a></p>
+<br>
+    
+<h3 dir="auto"><strong>About Me</strong></h3>
 <ul dir="auto">
+<li> 💼 I am self-employed and divide my work time between open-source and experimental projects.</li>
+<li> 🫀 I am currently focused on algorithmic trading, machine learning, smart contract auditing, and copywriting. </li>
+</ul>
+ 
+<h3 dir="auto"><strong>Profile Stats</strong></h3>
+<table>
+<thead>
+<tr>
+<th><a href=""><img align="center" src="https://github-readme-stats-iotaaxel.vercel.app/api?username=iotaaxel&show_icons=true&include_all_commits=true&hide_rank=true&theme=gruvbox&hide_title=true&hide_border=true" alt="Axel's github stats"></a></th>
+<th><a href=""><img align="center" 
+src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iotaaxel&theme=gruvbox&layout=compact&langs_count=10&hide=html&hide_border=true"></a></th>
+</tr>
+</thead>
+</table>
+
+<h3 dir="auto"><strong>Thank You</strong></h3>
+<ul dir="auto">
+<li><a href="https://github.com/anuraghazra">Anurag Hazra</a> for <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></li>
 <li><a href="https://github.com/rahuldkjain">Rahul Jain</a> for <a href="https://github.com/rahuldkjain/github-profile-readme-generator">github-profile-readme-generator</a></li>
 </ul>
 
+<h3 dir="auto"><strong>Connect with Me</strong></h3>
+<a href="https://twitch.tv/axel_iota" rel="nofollow">
+  <img align="left" alt="Axel Iota | Twitch" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg">
+</a>
+<a href="https://twitter.com/iota_axel" rel="nofollow">
+  <img align="left" alt="Axel Iota | Twitter" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg">
+</a>
+<a href="https://www.youtube.com/channel/UCCR46iLohaOQF7_PsKFCHag" rel="nofollow">
+  <img align="left" alt="Axel Iota | Youtube" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg">
+</a>
+</article>
 
 <!--
 **iotaaxel/iotaaxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
