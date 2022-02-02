@@ -14,9 +14,9 @@
 <table>
 <thead>
 <tr>
-<th><a href=""><img align="center" src="https://github-readme-stats-iotaaxel.vercel.app/api?username=iotaaxel&show_icons=true&include_all_commits=true&hide_rank=true&theme=gruvbox&hide_title=true&hide_border=true" alt="Axel's github stats"></a></th>
+<th><a href=""><img align="center" src="https://github-readme-stats-iotaaxel.vercel.app/api?username=iotaaxel&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_title=true&hide_border=true" alt="Axel's github stats"></a></th>
 <th><a href=""><img align="center" 
-src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iotaaxel&theme=gruvbox&layout=compact&langs_count=10&hide=html&hide_border=true"></a></th>
+src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iotaaxel&theme=tokyonight&layout=compact&langs_count=10&hide=css,html&hide_border=true"></a></th>
 </tr>
 </thead>
 </table>
