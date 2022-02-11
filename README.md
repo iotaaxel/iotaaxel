@@ -16,7 +16,7 @@
 <tr>
 <th><a href=""><img align="center" src="https://github-readme-stats-iotaaxel.vercel.app/api?username=iotaaxel&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_title=true&hide_border=true" alt="Axel's github stats"></a></th>
 <th><a href=""><img align="center" 
-src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iotaaxel&theme=tokyonight&layout=compact&langs_count=10&hide=css,html&hide_border=true"></a></th>
+src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iotaaxel&theme=tokyonight&layout=compact&langs_count=10&hide_border=true"></a></th>
 </tr>
 </thead>
 </table>
@@ -30,6 +30,9 @@ src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iot
 <h3 dir="auto"><strong>Connect with Me</strong></h3>
 <a href="https://www.linkedin.com/in/axel-iota" rel="nofollow">
   <img align="left" alt="Axel Iota | LinkedIn" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+</a>
+<a href="https://medium.com/@iota.axel" rel="nofollow">
+  <img align="left" alt="Axel Iota | Medium" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg">
 </a>
 <a href="https://twitch.tv/axel_iota" rel="nofollow">
   <img align="left" alt="Axel Iota | Twitch" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg">
