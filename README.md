@@ -28,7 +28,7 @@ src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iot
 </ul>
 
 <h3 dir="auto"><strong>Connect with Me</strong></h3>
-<a href="https://www.linkedin.com/in/axel-iota" rel="nofollow">
+<a href="https://www.gitlab.com/iotaaxel" rel="nofollow">
   <img align="left" alt="Axel Iota | Gitlab" width="21px" src="https://gitlab.com/gitlab-com/gitlab-artwork/-/raw/master/logo/logo.svg">
 </a>
 <a href="https://www.linkedin.com/in/axel-iota" rel="nofollow">
