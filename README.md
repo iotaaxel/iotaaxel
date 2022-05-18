@@ -29,6 +29,9 @@ src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iot
 
 <h3 dir="auto"><strong>Connect with Me</strong></h3>
 <a href="https://www.linkedin.com/in/axel-iota" rel="nofollow">
+  <img align="left" alt="Axel Iota | Gitlab" width="21px" src="https://gitlab.com/gitlab-com/gitlab-artwork/-/raw/master/logo/logo.svg">
+</a>
+<a href="https://www.linkedin.com/in/axel-iota" rel="nofollow">
   <img align="left" alt="Axel Iota | LinkedIn" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
 </a>
 <a href="https://medium.com/@iota.axel" rel="nofollow">
