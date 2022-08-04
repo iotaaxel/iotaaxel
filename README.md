@@ -27,7 +27,7 @@ src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iot
 <li><a href="https://github.com/rahuldkjain">Rahul Jain</a> for <a href="https://github.com/rahuldkjain/github-profile-readme-generator">github-profile-readme-generator</a></li>
 </ul>
 
-<h3 dir="auto"><strong>Connect with Me</strong></h3>
+<h3 dir="auto"><strong>Follow Me</strong></h3>
 <a href="https://www.gitlab.com/iotaaxel" rel="nofollow">
   <img align="left" alt="Axel Iota | Gitlab" width="21px" src="https://gitlab.com/gitlab-com/gitlab-artwork/-/raw/master/logo/logo.svg">
 </a>
