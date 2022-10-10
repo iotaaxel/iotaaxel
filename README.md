@@ -16,7 +16,7 @@
 <tr>
 <th><a href="https://skyline.github.com/iotaaxel/2022"><img align="center" src="https://github-readme-stats-iotaaxel.vercel.app/api?username=iotaaxel&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_title=true&hide_border=true" alt="Axel's github stats"></a></th>
 <th><a href="https://github.com/iotaaxel?tab=repositories"><img align="center" 
-src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iotaaxel&theme=tokyonight&layout=compact&hide_border=true"></a></th>
+src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iotaaxel&theme=tokyonight&layout=compact&langs_count=20&hide_border=true"></a></th>
 </tr>
 </thead>
 </table>
