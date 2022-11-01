@@ -43,7 +43,7 @@ src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iot
 <a href="https://twitter.com/iota_axel" rel="nofollow">
   <img align="left" alt="Axel Iota | Twitter" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg">
 </a>
-<a href="https://www.youtube.com/channel/UCCR46iLohaOQF7_PsKFCHag" rel="nofollow">
+<a href="https://www.youtube.com/@aiota" rel="nofollow">
   <img align="left" alt="Axel Iota | Youtube" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg">
 </a>
 </article>
