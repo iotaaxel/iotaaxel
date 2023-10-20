@@ -49,9 +49,9 @@ src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iot
 <a href="https://www.kaggle.com/axeliota" rel="nofollow">
   <img align="left" alt="Axel Iota | Kaggle" width="21px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg">
 </a>
-<a href="https://www.aicrowd.com/participants/iota_axel" rel="nofollow">
+<!-- <a href="https://www.aicrowd.com/participants/iota_axel" rel="nofollow">
   <img align="left" alt="Axel Iota | Aicrowd" width="21px" src="https://media.licdn.com/dms/image/C4E0BAQGXLrvyv72GFQ/company-logo_200_200/0/1641187825938?e=1683763200&v=beta&t=iR2BHA5sHoE-JxytFL3c8y9hH4NV0QfkKa3mS7Mwp28">
-</a>
+</a> -->
 
 </article>
 
