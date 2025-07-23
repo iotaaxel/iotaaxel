@@ -7,7 +7,7 @@
 <h3 dir="auto"><strong>About Me</strong></h3>
 <ul dir="auto">
 <li> 💼 I divide my work time between open-source and experimental projects.</li>
-<li> 🫀 I am currently focused on algorithmic trading, machine learning, and smart contract auditing. </li>
+<li> 🫀 I am currently focused on large language models. </li>
 </ul>
  
 <h3 dir="auto"><strong>Profile Stats</strong></h3>
