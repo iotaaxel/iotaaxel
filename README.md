@@ -6,8 +6,8 @@
     
 <h3 dir="auto"><strong>About Me</strong></h3>
 <ul dir="auto">
-<li> 💼 I divide my work time between open-source and experimental projects.</li>
-<li> 🫀 I am currently focused on large language models. </li>
+<li> ☄️ I divide my work time between open-source and experimental projects.</li>
+<li> 😎 I am currently focused on kernels. </li>
 </ul>
  
 <h3 dir="auto"><strong>Profile Stats</strong></h3>
@@ -28,25 +28,25 @@ src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iot
 </ul>
 
 <h3 dir="auto"><strong>Follow Me</strong></h3>
-<a href="https://www.aicrowd.com/participants/iota_axel" rel="nofollow">
+<!-- <a href="https://www.aicrowd.com/participants/iota_axel" rel="nofollow">
   <img align="left" alt="Axel Iota | Aicrowd" width="21px" src="icons/aicrowd.svg">
 </a>
 <a href="https://devpost.com/iota-axel" rel="nofollow">
   <img align="left" alt="Axel Iota | Devpost" width="21px" src="icons/devpost.svg">
-</a>
-<a href="https://www.gitlab.com/iotaaxel" rel="nofollow">
+</a> -->
+<!-- <a href="https://www.gitlab.com/iotaaxel" rel="nofollow">
   <img align="left" alt="Axel Iota | Gitlab" width="21px" src="https://gitlab.com/gitlab-com/gitlab-artwork/-/raw/master/logo/logo.svg">
-</a>
-<a href="https://www.kaggle.com/axeliota" rel="nofollow">
+</a> -->
+<!-- <a href="https://www.kaggle.com/axeliota" rel="nofollow">
   <img align="left" alt="Axel Iota | Kaggle" width="21px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg">
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/axel-iota" rel="nofollow">
   <img align="left" alt="Axel Iota | LinkedIn" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-</a>
+<!-- </a>
 <a href="https://medium.com/@iota.axel" rel="nofollow">
   <img align="left" alt="Axel Iota | Medium" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg">
-</a>
-<a href="https://substack.com/@axeliota" rel="nofollow">
+</a> -->
+<!-- <a href="https://substack.com/@axeliota" rel="nofollow">
   <img align="left" alt="Axel Iota | Substack" width="21px" src="icons/substack.svg">
 </a>
 <a href="https://twitch.tv/axel_iota" rel="nofollow">
@@ -57,7 +57,7 @@ src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iot
 </a>
 <a href="https://www.youtube.com/@aiota" rel="nofollow">
   <img align="left" alt="Axel Iota | Youtube" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg">
-</a>
+</a> -->
 
 </article>
 
