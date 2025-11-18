@@ -6,8 +6,8 @@
     
 <h3 dir="auto"><strong>About Me</strong></h3>
 <ul dir="auto">
-<li> ☄️ I divide my work time between open-source and experimental projects.</li>
-<li> 😎 I am currently focused on kernels. </li>
+<li> ⚡️ I build across open-source, agentic AI systems, and experimental tech.</li>
+<li> 🛰️ Currently exploring kernel-level models, distributed automation, and high-performance trading systems. </li>
 </ul>
  
 <h3 dir="auto"><strong>Profile Stats</strong></h3>
@@ -22,10 +22,12 @@ src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iot
 </table>
 
 <h3 dir="auto"><strong>Thank You</strong></h3>
-<ul dir="auto">
+<!-- <ul dir="auto"> -->
+Thanks to the creators behind the GitHub README generators and stats tools that make developer profiles fun. 
+<!-- Thanks to the creators behind the Github
 <li><a href="https://github.com/anuraghazra">Anurag Hazra</a> for <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></li>
-<li><a href="https://github.com/rahuldkjain">Rahul Jain</a> for <a href="https://github.com/rahuldkjain/github-profile-readme-generator">github-profile-readme-generator</a></li>
-</ul>
+<li><a href="https://github.com/rahuldkjain">Rahul Jain</a> for <a href="https://github.com/rahuldkjain/github-profile-readme-generator">github-profile-readme-generator</a></li> -->
+<!-- </ul> -->
 
 <h3 dir="auto"><strong>Follow Me</strong></h3>
 <!-- <a href="https://www.aicrowd.com/participants/iota_axel" rel="nofollow">
