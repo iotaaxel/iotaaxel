@@ -23,7 +23,7 @@ src="https://github-readme-stats-iotaaxel.vercel.app/api/top-langs/?username=iot
 </thead>
 </table>
 
-<h3 dir="auto"><strong>Thank You</strong></h3>
+<h3 dir="auto"><strong>Credits</strong></h3>
 <!-- <ul dir="auto"> -->
 Thanks to the creators behind the GitHub README generators and stats tools that make developer profiles fun. 
 <!-- Thanks to the creators behind the Github
