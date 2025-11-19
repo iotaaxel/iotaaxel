@@ -6,8 +6,10 @@
     
 <h3 dir="auto"><strong>About Me</strong></h3>
 <ul dir="auto">
-<li> ⚡️ I build across open-source, agentic AI systems, and experimental tech.</li>
-<li> 🛰️ Currently exploring kernel-level models, distributed automation, and high-performance trading systems. </li>
+<li> ⚡️ Systems, ML engineering, and distributed automation.</li>
+<li> I build across agentic AI systems, high-performance infrastructure, and experimental technology.</li>
+<li> My work focuses on reliability, minimalism, and long-horizon automation. </li>
+<li> 🛰️ Currently exploring kernel-level models, orchestration frameworks, and low-overhead trading systems. </li>
 </ul>
  
 <h3 dir="auto"><strong>Profile Stats</strong></h3>
