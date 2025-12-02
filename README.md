@@ -5,8 +5,7 @@
 <br>
     
 <h3 dir="auto"><strong>About Me</strong></h3>
-<ul dir="auto">
-<li> ⚡️ Systems, ML engineering, and distributed automation.</li>
+<ul dir="auto">My main focus is PyTorch internals & systems.</li>
 <li> I build across agentic AI systems, high-performance infrastructure, and experimental technology.</li>
 <li> My work focuses on reliability, minimalism, and long-horizon automation. </li>
 <li> 🛰️ Currently exploring kernel-level models, orchestration frameworks, and low-overhead trading systems. </li>
