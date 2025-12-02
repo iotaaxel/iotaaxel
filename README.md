@@ -46,7 +46,13 @@ Thanks to the creators behind the GitHub README generators and stats tools that 
 </a> -->
 <a href="https://www.linkedin.com/in/axel-iota" rel="nofollow">
   <img align="left" alt="Axel Iota | LinkedIn" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-<!-- </a>
+</a>
+
+<a href="https://huggingface.co/aiota" rel="nofollow">
+  <img align="left" alt="Axel Iota | HuggingFace" width="21px" src="https://raw.githubusercontent.com/iotaaxel/iotaaxel/refs/heads/main/icons/hf-logo.svg">
+</a>
+
+<!--
 <a href="https://medium.com/@iota.axel" rel="nofollow">
   <img align="left" alt="Axel Iota | Medium" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg">
 </a> -->
