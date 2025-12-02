@@ -6,10 +6,7 @@
     
 <h3 dir="auto"><strong>About Me</strong></h3>
 <ul dir="auto">
-<li> My main focus is PyTorch internals & systems.</li>
-<li> I build across agentic AI systems, high-performance infrastructure, and experimental technology.</li>
-<li> My work focuses on reliability, minimalism, and long-horizon automation. </li>
-<li> 🛰️ Currently exploring kernel-level models, orchestration frameworks, and low-overhead trading systems. </li>
+<li> I tune AI systems until they behave - PyTorch internals, kernels, GPYs, and distributed training.</li>
 </ul>
  
 <h3 dir="auto"><strong>Profile Stats</strong></h3>
