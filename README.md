@@ -49,6 +49,19 @@ Thanks to the creators behind the GitHub README generators and stats tools that 
   <img align="left" alt="Axel Iota | HuggingFace" width="21px" src="https://raw.githubusercontent.com/iotaaxel/iotaaxel/refs/heads/main/icons/hf-logo.svg">
 </a>
 
+<a href="https://www.gjopen.com/forecaster/aiota" rel="nofollow">
+  <img align="left" alt="Axel Iota | Good Judgment Open" width="21px" src="https://raw.githubusercontent.com/iotaaxel/iotaaxel/refs/heads/main/icons/fox72_gjopen_icon.svg">
+</a>
+
+<a href="https://www.metaculus.com/accounts/profile/283700" rel="nofollow">
+  <img align="left" alt="Axel Iota | Metaculus" width="21px" src="https://raw.githubusercontent.com/iotaaxel/iotaaxel/refs/heads/main/icons/metaculus_icon.png">
+</a>
+
+<a href="https://www.randforecastinginitiative.org/forecaster/aiota" rel="nofollow">
+  <img align="left" alt="Axel Iota | Good Judgment Open" width="21px" src="https://raw.githubusercontent.com/iotaaxel/iotaaxel/refs/heads/main/icons/rand_forecasting_initiative_icon.png">
+</a>
+
+
 <!--
 <a href="https://medium.com/@iota.axel" rel="nofollow">
   <img align="left" alt="Axel Iota | Medium" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg">
