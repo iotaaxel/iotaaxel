@@ -6,7 +6,7 @@
     
 <h3 dir="auto"><strong>About Me</strong></h3>
 <ul dir="auto">
-<li> I tune AI systems until they behave - PyTorch internals, kernels, GPUs, and distributed training.</li>
+<li> I am currently tinkering with projects for companies.</li>
 </ul>
  
 <h3 dir="auto"><strong>Profile Stats</strong></h3>
