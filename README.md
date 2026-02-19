@@ -6,7 +6,7 @@
     
 <h3 dir="auto"><strong>About Me</strong></h3>
 <ul dir="auto">
-<li> I am currently tinkering with projects for companies.</li>
+<li> Welcome.</li>
 </ul>
  
 <h3 dir="auto"><strong>Profile Stats</strong></h3>
